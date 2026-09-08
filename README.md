@@ -2,7 +2,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="./kushal%20yn%20gowda.png" width="100%" alt="Kushal YN Gowda">
+  <img src="./kushal%20yn%20gowda.jpeg" width="100%" alt="Kushal YN Gowda">
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KUSHAL826)
