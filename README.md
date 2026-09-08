@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0f172a,100:00e5ff&height=220&section=header&text=KUSHAL%20YN%20GOWDA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20%26%20GenAI%20%7C%20DSA%20%7C%20Core%20CS%20%7C%20IoT&descAlignY=62&descAlign=50" width="100%" alt="Kushal YN Gowda Header" />
+<p align="center">
+  <img src="./kushal%20yn%20gowda.png" width="100%" alt="Kushal YN Gowda">
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KUSHAL826)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushal-yn-gowda)
