@@ -51,9 +51,20 @@ intelligent systems that solve genuine real-world challenges.
 
 #### 🤖 AI & Generative AI
 <p align="left">
-  <img src="https://img.shields.io/badge/Generative_AI-LLMs%20&%20RAG-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Structured%20Output-6366F1?style=for-the-badge" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/LangChain-AI%20Engineering-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/API%20Key%20Integration-4B5563?style=flat-square" alt="API Key Integration" />
+  <img src="https://img.shields.io/badge/Text%20Generation-4B5563?style=flat-square" alt="Text Generation" />
+  <img src="https://img.shields.io/badge/Chatbots-4B5563?style=flat-square" alt="Chatbots" />
+  <img src="https://img.shields.io/badge/Embeddings-4B5563?style=flat-square" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-4B5563?style=flat-square" alt="Semantic Search" />
+  <img src="https://img.shields.io/badge/FAISS-4B5563?style=flat-square&logo=meta" alt="FAISS" />
+  <img src="https://img.shields.io/badge/RAG-4B5563?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-4B5563?style=flat-square&logo=langchain" alt="LangChain" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-4B5563?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Render-4B5563?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-4B5563?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
 #### 🏛️ Core Computer Science
