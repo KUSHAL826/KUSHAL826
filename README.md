@@ -105,7 +105,7 @@ intelligent systems that solve genuine real-world challenges.
   <table>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KUSHAL826&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="Kushal's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KUSHAL826&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="Kushal's GitHub Stats" />
       </td>
       <td valign="top" width="50%">
         <img src="https://streak-stats.demolab.com/?user=KUSHAL826&theme=tokyonight&hide_border=true" width="100%" alt="Kushal's GitHub Streak" />
@@ -113,7 +113,7 @@ intelligent systems that solve genuine real-world challenges.
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KUSHAL826&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,php,hack" width="60%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUSHAL826&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,php,hack" width="60%" alt="Top Languages" />
       </td>
     </tr>
   </table>
