@@ -146,6 +146,20 @@ intelligent systems that solve genuine real-world challenges.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4>🔬 <a href="https://github.com/KUSHAL826/ResearchIQ">ResearchIQ</a></h4>
+      <p><b>Domain:</b> Autonomous Research Intelligence &amp; Manuscript Platform</p>
+      <p>Visual-first academic research platform featuring multi-PDF paper intelligence, gap detection, PRISMA literature reviews, citation network graphs, claim verification, and a 12-stage guided paper studio with IEEE/Springer/ACM exports.</p>
+      <p><b>Tech:</b> <code>Python</code> <code>Streamlit</code> <code>LangGraph</code> <code>LangChain</code> <code>Gemini</code> <code>FAISS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://github.com/KUSHAL826/BMSIT_CHATBOT">BMSIT_CHATBOT</a></h4>
+      <p><b>Domain:</b> Production RAG Assistant &amp; Delta Ingestion Engine</p>
+      <p>Retrieval-augmented college AI agent for BMSIT&amp;M that crawls institutional pages daily with SHA-256 delta ingestion, key-pool rotation, and vector-space isolation to deliver verified, citation-backed answers and an admin dashboard.</p>
+      <p><b>Tech:</b> <code>Python</code> <code>Flask</code> <code>Supabase</code> <code>pgvector</code> <code>FAISS</code> <code>Gemini API</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/KUSHAL826/GENAI-">GENAI-</a></h4>
       <p><b>Domain:</b> Generative AI & AI Engineering</p>
       <p>Hands-on implementation of Large Language Models (LLMs), prompt engineering strategies, embedding generation, Retrieval-Augmented Generation (RAG) workflows, LangChain orchestration, and production-oriented AI application development.</p>
